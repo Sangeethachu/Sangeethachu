@@ -50,6 +50,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Antigravity%20AI-7B2FBE?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### 💾 Databases
