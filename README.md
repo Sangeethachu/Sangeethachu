@@ -1,18 +1,21 @@
-# Hi there, I'm Sangeeth 👋 ⚡
+# Hi there, I'm Sangeeth Chu 👋 ⚡
+## Odoo Developer | Web Enthusiast
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangeethachu/gogreen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sangeethachu/gogreen/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangeethachu/gogreen/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sangeethachu/gogreen/output/github-contribution-grid-snake.svg" width="100%">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sangeethachu/gogreen/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on building cool web applications.
-- 🌱 I’m currently learning advanced JavaScript and Backend architectures.
-- ⚡ Fun fact: I love automating things to "go green"!
+- 🔭 **Odoo Developer** passionate about building robust enterprise solutions.
+- 🌱 Specialized in **REST APIs**, **FastAPI**, and **Django**.
+- 🛠️ Modern frontend enthusiast using **React** and **Owl**.
+- ⚡ **Antigravity** powered developer! 🦾
+- 🐳 **Docker** & **GitLab** for DevOps.
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,nodejs,git,github,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,nodejs,django,react,docker,gitlab,pycharm,vscode,linux)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 ![Sangeeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangeethachu&show_icons=true&theme=omni)
