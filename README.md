@@ -1,6 +1,3 @@
-<!-- Header: Coding Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60%" />
-
 ## Odoo Developer | Backend Architect 🚀
 
 <picture>
@@ -9,12 +6,25 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sangeethachu/developer-stats/output/github-contribution-grid-snake.svg">
 </picture>
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ## 🚀 About Me
 - 🔭 **Odoo Developer** building robust enterprise solutions.
 - 🌱 Specialized in **REST APIs**, **FastAPI**, and **Django**.
 - 🛠️ Modern frontend enthusiast using **React** and **Owl**.
 - ⚡ **Antigravity** powered developer! 🦾
 - 🐳 **Docker** & **GitLab** for DevOps.
+
+</td>
+<td valign="top" width="45%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ## 🌱 Skills
 
