@@ -1,13 +1,16 @@
-<!-- Header: Capsule Render -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sangeeth%20Chu&fontSize=90&animation=fadeIn&fontAlignY=38&theme=tokyonight)
+<!-- Header: Coding Animation GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
+
 
 ## Odoo Developer | Backend Architect 🚀
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangeethachu/developer-stats/output/github-contribution-grid-snake-dark.svg" width="100%">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sangeethachu/developer-stats/output/github-contribution-grid-snake.svg" width="100%">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sangeethachu/developer-stats/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ## 🚀 About Me
 - 🔭 **Odoo Developer** building robust enterprise solutions.
@@ -16,8 +19,10 @@
 - ⚡ **Antigravity** powered developer! 🦾
 - 🐳 **Docker** & **GitLab** for DevOps.
 
+
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,nodejs,django,react,docker,gitlab,pycharm,vscode,linux)](https://skillicons.dev)
+
 
 ## 📊 GitHub Stats & Activity
 <p align="left">
@@ -25,11 +30,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeethachu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+
 <!-- Activity Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sangeethachu&theme=tokyonight&hide_border=true)
 
+
 ---
+
 
 ### Links & Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sangeethachu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sangeethachu)
+
