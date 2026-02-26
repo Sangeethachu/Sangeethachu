@@ -40,7 +40,11 @@
 
 ### 🛠 Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,gitlab,github,linux,pycharm,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,gitlab,github,linux,pycharm,vscode,postman,stackoverflow" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Antigravity%20AI-7B2FBE?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ### 💾 Databases
